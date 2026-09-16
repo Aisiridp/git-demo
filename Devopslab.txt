@@ -1,1 +1,2 @@
-hello git hub 
+Hello git hub 
+This is our first devops lab
