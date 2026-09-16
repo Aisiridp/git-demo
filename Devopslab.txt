@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 hello git hub 
 this is the first devops lab
+=======
+Hello git hub 
+This is our first devops lab
+>>>>>>> feature1
+hii hello good afternoon
