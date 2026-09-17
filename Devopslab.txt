@@ -1,4 +1,10 @@
 
 Hello git hub 
+<<<<<<< HEAD
 
 Source code management and collaborations
+=======
+This is our first Devops Lab
+>>>>>>> feature1
+
+Good afternoon
